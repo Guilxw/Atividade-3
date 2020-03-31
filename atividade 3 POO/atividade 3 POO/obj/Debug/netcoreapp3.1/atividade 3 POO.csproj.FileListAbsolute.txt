@@ -1,0 +1,3 @@
+C:\Users\Guilherme\Desktop\Guilherme\marlao\atividade 3 POO\atividade 3 POO\obj\Debug\netcoreapp3.1\atividade 3 POO.csprojAssemblyReference.cache
+C:\Users\Guilherme\Desktop\Guilherme\marlao\atividade 3 POO\atividade 3 POO\obj\Debug\netcoreapp3.1\atividade 3 POO.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\Guilherme\marlao\atividade 3 POO\atividade 3 POO\obj\Debug\netcoreapp3.1\atividade 3 POO.AssemblyInfo.cs
