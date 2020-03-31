@@ -1,0 +1,10 @@
+C:\Users\Guilherme\Desktop\Guilherme\marlao\atividade 3 POO\atividade 3 POO\obj\Debug\netcoreapp3.1\atividade_3_POO.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\Guilherme\marlao\atividade 3 POO\atividade 3 POO\obj\Debug\netcoreapp3.1\atividade_3_POO.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\Guilherme\marlao\atividade 3 POO\atividade 3 POO\bin\Debug\netcoreapp3.1\atividade_3_POO.exe
+C:\Users\Guilherme\Desktop\Guilherme\marlao\atividade 3 POO\atividade 3 POO\bin\Debug\netcoreapp3.1\atividade_3_POO.deps.json
+C:\Users\Guilherme\Desktop\Guilherme\marlao\atividade 3 POO\atividade 3 POO\bin\Debug\netcoreapp3.1\atividade_3_POO.runtimeconfig.json
+C:\Users\Guilherme\Desktop\Guilherme\marlao\atividade 3 POO\atividade 3 POO\bin\Debug\netcoreapp3.1\atividade_3_POO.runtimeconfig.dev.json
+C:\Users\Guilherme\Desktop\Guilherme\marlao\atividade 3 POO\atividade 3 POO\bin\Debug\netcoreapp3.1\atividade_3_POO.dll
+C:\Users\Guilherme\Desktop\Guilherme\marlao\atividade 3 POO\atividade 3 POO\bin\Debug\netcoreapp3.1\atividade_3_POO.pdb
+C:\Users\Guilherme\Desktop\Guilherme\marlao\atividade 3 POO\atividade 3 POO\obj\Debug\netcoreapp3.1\atividade_3_POO.dll
+C:\Users\Guilherme\Desktop\Guilherme\marlao\atividade 3 POO\atividade 3 POO\obj\Debug\netcoreapp3.1\atividade_3_POO.pdb
